@@ -14,20 +14,20 @@
 	<li>旋转同时改变每个对象（点）的浓度以及大小，从而进行三维旋转模拟</li>
 	<hr>
 	<p>代码写得有点粗糙，请大神指点</p>
-        <div id="normal_sphere">
-           
-        </div>
-        <div id="abnormal_sphere">
-           
-        </div>
-        <div id="normal_cy">
-           
-        </div>
-        <div id="abnormal_cy">
-           
-        </div>
-        <script src="somjs/jquery-1.8.3.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="somjs/d3.v2.js" type="text/javascript" charset="utf-8"></script>
-        <script src="somjs/draw_ball.js" type="text/javascript" charset="utf-8"></script>
+	<div id="normal_sphere">
+	   
+	</div>
+	<div id="abnormal_sphere">
+	   
+	</div>
+	<div id="normal_cy">
+	   
+	</div>
+	<div id="abnormal_cy">
+	   
+	</div>
+	<script src="somjs/jquery-1.8.3.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="somjs/d3.v2.js" type="text/javascript" charset="utf-8"></script>
+	<script src="somjs/draw_ball.js" type="text/javascript" charset="utf-8"></script>
     </body>
 </html>
