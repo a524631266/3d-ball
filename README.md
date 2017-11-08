@@ -10,6 +10,8 @@ The web loading should take a few minutues,please wait for a while;
 <li>旋转同时改变每个对象（点）的浓度以及大小，从而进行三维旋转模拟</li>
 <hr>
 <p>代码写得有点粗糙，请大神指点</p>
+
+![Screenshot](ball1.html)
 <div id="normal_sphere">
 
 </div>
