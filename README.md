@@ -16,7 +16,6 @@
     </head>
 
     <body>
-        </div>
          <div id="normal_sphere">
            
          </div>
