@@ -5,7 +5,7 @@
     </head>
     <body>
 	通过如下链接查看效果
-	http://htmlpreview.github.io/?https://github.com/a524631266/3d-ball/blob/master/ball1.html	
+	[3d_picture](http://htmlpreview.github.io/?https://github.com/a524631266/3d-ball/blob/master/ball1.html)	
 	<h1>3d-ball<br />本文的主旨是通过web的js生成可操作的球型以及柱形体</h1>
 	<h3>利用svg技术（非canvas）以及三维影射模型建立二维平面的三维立体图转换</h3>
 	<h2>不足：</h2>
