@@ -1,5 +1,7 @@
 通过如下链接查看效果
 [3d_picture](http://htmlpreview.github.io/?https://github.com/a524631266/3d-ball/blob/master/ball1.html)
+The web loading should take a few minutues,please wait for a while;
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
