@@ -9,3 +9,28 @@
 同时通过每个点的浓度与大小对数据进行三维模拟
 
 代码写得有点粗糙，请大神指点
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+    </head>
+
+    <body>
+        </div>
+         <div id="normal_sphere">
+           
+         </div>
+         <div id="abnormal_sphere">
+           
+         </div>
+         <div id="normal_cy">
+           
+         </div>
+         <div id="abnormal_cy">
+           
+         </div>
+         <script src="somjs/jquery-1.8.3.min.js" type="text/javascript" charset="utf-8"></script>
+         <script src="somjs/d3.v2.js" type="text/javascript" charset="utf-8"></script>
+         <script src="somjs/draw_ball.js" type="text/javascript" charset="utf-8"></script>
+    </body>
+</html>
